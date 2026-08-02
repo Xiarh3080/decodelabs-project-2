@@ -138,7 +138,15 @@ The website is optimized for multiple screen sizes.
 ---
 
 # 📸 Screenshots
+-/homepage
+<img width="1384" height="946" alt="image" src="https://github.com/user-attachments/assets/2e34fbf5-da3f-4379-955e-b63da5f40b7f" />
 
+-/services
+<img width="1362" height="800" alt="image" src="https://github.com/user-attachments/assets/de50a5d0-2e49-481a-8355-5cce7218d5fc" />
+
+-/mobile-view
+<img width="1080" height="2400" alt="Screenshot_20260802-074802" src="https://github.com/user-attachments/assets/6feb5383-91da-4fa6-90e4-09faf56aa9c1" />
+<img width="1080" height="2400" alt="Screenshot_20260802-074808" src="https://github.com/user-attachments/assets/49930664-a93e-4a71-b1bc-823367cfa6fa" />
 
 
 ---
@@ -200,6 +208,8 @@ Frontend Development Intern
 DecodeLabs
 
 ---
+
+For Live Demo Visit : https://xiarh3080.github.io/decodelabs-project-2/#home
 
 # 📄 License
 
